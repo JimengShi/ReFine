@@ -17,6 +17,6 @@ pip3 install -r requirements.txt
 ```
 
 ## Running
-- Install the required packages.
+- Download the entire repository and install the required packages (see requirements above).
 - For training, go to the `training_mlp` folder and run cells in the `ipynb` files under each dataset.
 - For testing or experiment analysis, go to the `postprocess` folder and run cells in the `ipynb` files.
