@@ -13,7 +13,7 @@ This repository contains the source code and datasets for "ReFine: Boosting Time
 ```bash
 conda create -n env_name python=3.8
 conda activate env_name
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 ```
 
 ## Running
