@@ -1,5 +1,5 @@
 # ReFine
-This repository contains the source code and datasets for "ReFine: Boosting Time Series Prediction Under Extreme Events by Reweighting and Fine-tuning".
+This repository contains the source code and datasets for "[ReFine: Boosting Time Series Prediction Under Extreme Events by Reweighting and Fine-tuning](https://ieeexplore.ieee.org/document/10825920)" accepted by [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
 ## Repository description
 - `data` folder includes data sets used
